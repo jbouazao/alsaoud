@@ -31,7 +31,7 @@ const Search = (props) => {
 				</ul>
 			</div>
 			<div className = 'p-3'>
-				<p className = 'font-popReg text-[20px]'>Found <span>0</span> items for search term <span>"maroc"</span></p>
+				<p className = 'font-popReg text-[20px]'>Found <span>0</span> items for search term <span>&#34;maroc&#34;</span></p>
 				<div className = 'border w-full mx-1 my-2'></div>
 			</div>
 		</div>

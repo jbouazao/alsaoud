@@ -26,7 +26,7 @@ const BookPage = (props) => {
 				<div className = 'flex gap-5 relative'>
 					<img src = {props.item.img} className = 'w-[250px]'/>
 					<ul className = 'w-full flex flex-col gap-2'>
-						<li className = 'font-popReg'><strong className = 'font-popSBold text-[18px]'>Title: </strong>Le temps a l'oeuvre: sure la pensée d'Emmanuel Levinas / Sophie Galabru ; préface</li>
+						<li className = 'font-popReg'><strong className = 'font-popSBold text-[18px]'>Title: </strong>Le temps a l&#39;oeuvre: sure la pensée d&#39;Emmanuel Levinas / Sophie Galabru ; préface</li>
 						<li className = 'font-popReg'><strong className = 'font-popSBold text-[18px]'>Author: </strong>Sophie Galabru(1990-...)</li>
 						<li className = 'font-popReg'><strong className = 'font-popSBold text-[18px]'>Publisher: </strong>Hermann</li>
 						<li className = 'font-popReg'><strong className = 'font-popSBold text-[18px]'>Pub date: </strong>impr. 2020</li>
