@@ -14,3 +14,28 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "PoppinsLight";
+  src: url("/fonts/Poppins-Light.ttf");
+}
+@font-face {
+  font-family: "PoppinsMed";
+  src: url("/fonts/Poppins-Medium.ttf");
+}
+@font-face {
+  font-family: "PoppinsReg";
+  src: url("/fonts/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: "PoppinsSBold";
+  src: url("/fonts/Poppins-SemiBold.ttf");
+}
+@font-face {
+  font-family: "PoppinsBold";
+  src: url("/fonts/Poppins-Bold.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
